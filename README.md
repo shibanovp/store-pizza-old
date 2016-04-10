@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/unkindest/store-pizza.svg?branch=master)](https://travis-ci.org/unkindest/store-pizza)
 # java-getting-started
 
 A barebones Java app, which can easily be deployed to Heroku.
